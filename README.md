@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# contactmentor.com - Temperature Control App React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to [Temperature Control App React Project of Contact Mentor](https://contactmentor.com/best-react-projects-for-beginners-easy/). Contact Mentor is a coding platform whose vision is to help people learn JavaScript concepts from Basics to Advance, and then Build Amazing Web apps with step by step guide. I'm trying to improve my coding skills by learning React.js with it and building realistic projects. 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- The objective of this project is to build a temperature control app where users can increment/decrement temperature and the background color changes based on temperature. 
 
-### `npm test`
+### Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](/public/images/screenshot-desktop.png)
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Solution URL: [https://github.com/traez/temperature-control-app-react](https://github.com/traez/temperature-control-app-react)
+- Live Site URL: [https://traez.github.io/temperature-control-app-react](https://traez.github.io/temperature-control-app-react)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## My process
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Built with
 
-### `npm run eject`
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Vanilla JavaScript
+- React.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### What I learned
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Basic React stuff. Just the first in a long line of React projects to come Isha Allah.  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- This https://jsbeginners.com/javascript-projects-for-beginners/ [100+ JavaScript Projects for Beginners!] was very instrumental in helping me learn to use Javascript practically. This https://contactmentor.com/best-react-projects-for-beginners-easy/ [45 Best React Projects for Beginners in Easy to Hard Order] about to help me do likewise in React 👍  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Continued development
 
-## Learn More
+- More React apps! 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Stackoverflow  
+MDN Web Docs  
+w3schools  
+YouTube  
+Google  
+ChatGPT OpenAI chatbot  
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Website - [Trae Zeeofor](https://github.com/traez)  
+- Twitter - [@trae_z](https://twitter.com/trae_z) 
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A new Nigeria is POssible. Vote Peter Obi. 

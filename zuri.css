@@ -1,0 +1,82 @@
+/* 
+Project-1 styling 
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    width: 100%;
+    height: auto;
+}
+body{
+    background-color: hsl(0, 0%, 75%);
+    padding:1rem;
+    font-family: 'Trebuchet MS';
+    display: flex;
+	flex-flow: column;
+  	justify-content: center; 
+	align-items: center;
+    width: 100%;
+    height: auto;
+}
+main{
+    width: 22rem;
+    height: 22rem;
+	background: #2b5870;
+    border: 2px solid hsl(204, 63%, 47%);
+	color: #ffffff;
+	box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+	flex-flow: column;
+  	justify-content: center; 
+	align-items: center;
+	font-size: 32px;
+}
+section{
+	height: 220px;
+    width: 220px;
+	border-radius: 50%;
+	border: 3px #ffffff solid;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	background-color: rgb(184, 184, 184);
+}
+section:hover {
+    background: rgb(184, 184, 184);
+    cursor: pointer;
+  }
+aside{
+	width:100%;
+	display: flex;
+	flex-flow: row;
+  	justify-content: space-around; 
+	align-items: center;
+}
+article{
+	border-radius: 100px;
+    height: 80px;
+    width: 80px;
+	border: 2px #ffffff solid;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	background: rgb(105, 104, 104);
+}
+article:hover {
+    background: rgb(184, 184, 184);
+    cursor: pointer;
+  }
+  .neutral {
+	background: rgb(184, 184, 184);
+  }
+  .cold {
+	background: #035aa6;
+  }
+  .hot {
+	background: #ff5200;
+  }
